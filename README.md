@@ -23,7 +23,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
           
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyewon-Park&theme=vue&layout=compact&exclude_repo=Coding-Test,kokoa-clone-2020,Momentum-Webapp,JS_Animation,Paint_JS,Spring-Board_pr,Spring_board-pr2,Face-Deidentification)](https://github.com/Kyewon-Park/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyewon-Park&theme=vue&layout=compact&exclude_repo=kokoa-clone-2020,Momentum-Webapp,JS_Animation,Paint_JS,Spring-Board_pr,Spring_board-pr2,Face-Deidentification)](https://github.com/Kyewon-Park/github-readme-stats)
 
 
 <br/>
