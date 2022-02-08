@@ -4,7 +4,7 @@
 🌱 I’m currently learning Spring. <br/>
 💬 Ask me about anything [here](https://github.com/Kyewon-Park/Kyewon-Park/issues/)
           
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyewon-Park&show_icons=true&theme=vue-dark )](https://github.com/Kyewon-Park/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyewon-Park&show_icons=true&theme=vue )](https://github.com/Kyewon-Park/github-readme-stats)
 
 <br/>
          
@@ -23,7 +23,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
           
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyewon-Park&theme=vue-dark&layout=compact&exclude_repo=Coding-Test,kokoa-clone-2020,Momentum-Webapp,JS_Animation,Face-Deidentification)](https://github.com/Kyewon-Park/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyewon-Park&theme=vue&layout=compact&exclude_repo=Coding-Test,kokoa-clone-2020,Momentum-Webapp,JS_Animation,Face-Deidentification)](https://github.com/Kyewon-Park/github-readme-stats)
 
 
 <br/>
