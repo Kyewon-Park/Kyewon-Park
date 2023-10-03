@@ -4,8 +4,6 @@
 🌱 I’m currently learning Spring. <br/>
 💬 Ask me about anything [here](https://github.com/Kyewon-Park/Kyewon-Park/issues/)
           
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyewon-Park&show_icons=true&theme=vue )](https://github.com/Kyewon-Park/github-readme-stats)
-
 <br/>
          
 
